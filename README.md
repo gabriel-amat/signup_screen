@@ -4,8 +4,7 @@ A beautiful signup screen made with Flutter.
 
 ## Print
 
-![Screenshot_2022-03-21-14-56-40-435_com example login_ui_app](https://user-images.githubusercontent.com/54670983/159335199-ac287069-e839-43b7-b9fd-b6ce233a05b2.jpg)
-
+<img src="https://user-images.githubusercontent.com/54670983/159335199-ac287069-e839-43b7-b9fd-b6ce233a05b2.jpg" width="200" height="400">
 
 <h3 align="center">I'm a mobile developer</h3>
 
